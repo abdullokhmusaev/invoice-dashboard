@@ -1,6 +1,8 @@
-# invoice-dashboard
+# invoice-management-system
 
-dashboard for managing your invoices(view, edit, delete, create)
+![invoice-management-system](https://github.com/user-attachments/assets/df65fcbf-223a-4cb8-8c33-bfce6e50f257)
+
+[user-service-repo](https://github.com/abdullokhmusaev/user-service)
 
 ### run locally(dev)
 There are 2 options for running the backend locally
